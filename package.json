@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/regina14-create/nauka-gita-2/issues"
   },
-  "homepage": "https://github.com/regina14-create/nauka-gita-2#readme"
+  "homepage": "https://github.com/regina14-create/nauka-gita-2#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  }
 }
